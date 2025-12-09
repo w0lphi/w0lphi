@@ -6,4 +6,4 @@ Please come in, grab a cup of coffee, make yourself comfortable and listen while
 
 🧑‍🎓 Student of applied informatics at the [Alpen-Adria University Klagenfurt](https://www.aau.at/)
 
-👾 Aspiring game developer at [Q1 Studios](https://q1studios.itch.io/)
+👾 Aspiring game developer at [Q1 Studios](https://github.com/Q1-Studios)
